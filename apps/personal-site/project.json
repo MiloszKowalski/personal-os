@@ -1,0 +1,8 @@
+{
+  "name": "personal-site",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/personal-site",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
